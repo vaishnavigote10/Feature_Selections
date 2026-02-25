@@ -1,6 +1,6 @@
 // dashboard.js - Dashboard interactivity
 
-import { animatedCounter } from './utils.js';
+import { animatedCounter } from 'utils.js';
 
 window.addEventListener('DOMContentLoaded', () => {
   // Animated stat cards
@@ -9,3 +9,4 @@ window.addEventListener('DOMContentLoaded', () => {
     animatedCounter(card, 0, end, 1200);
   });
 });
+
