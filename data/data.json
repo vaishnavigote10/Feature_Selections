@@ -1,0 +1,12 @@
+{
+  "stats": [
+    { "label": "Users", "value": 1200 },
+    { "label": "Sessions", "value": 3400 },
+    { "label": "Conversions", "value": 210 }
+  ],
+  "features": [
+    { "title": "Fast Performance", "desc": "Optimized for speed and efficiency." },
+    { "title": "Responsive Design", "desc": "Looks great on any device." },
+    { "title": "Easy Customization", "desc": "Flexible and modular codebase." }
+  ]
+}
